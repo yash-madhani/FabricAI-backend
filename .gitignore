@@ -11,6 +11,8 @@ __pycache__/
 *.manifest
 *.spec
 
+.git 
+
 # Virtual environments
 .env
 .venv
